@@ -78,11 +78,8 @@
     <a href="https://github.com/ShivaKrishnaReddyBurra" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
     </a>
-    <a href="https://discord.gg/your-discord" target="_blank">
+    <a href="https://discord.gg/XAsZ2gv3" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
-    </a>
-    <a href="https://dev.to/shivakrishna" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
     </a>
   </p>
 </div>
