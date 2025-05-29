@@ -22,17 +22,17 @@
   <table>
     <tr>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShivaKrishnaReddyBurra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=⚔️%20Combat%20Stats&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00FF41&text_color=FFFFFF&hide=rank&cache_bust={{TIMESTAMP}}" alt="Combat Stats"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShivaKrishnaReddyBurra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=⚔️%20Combat%20Stats&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00FF41&text_color=FFFFFF&hide=rank&cache_bust=1748490484" alt="Combat Stats"/>
       </td>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaKrishnaReddyBurra&layout=compact&langs_count=10&theme=radical&custom_title=🛡️%20Weapon%20Mastery&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&cache_bust={{TIMESTAMP}}" alt="Weapon Mastery"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaKrishnaReddyBurra&layout=compact&langs_count=10&theme=radical&custom_title=🛡️%20Weapon%20Mastery&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&cache_bust=1748490484" alt="Weapon Mastery"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaKrishnaReddyBurra&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=00FF41&fire=FFD700&currStreakNum=FFFFFF&sideNums=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF&cache_bust={{TIMESTAMP}}" alt="Legendary Streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaKrishnaReddyBurra&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=00FF41&fire=FFD700&currStreakNum=FFFFFF&sideNums=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF&cache_bust=1748490484" alt="Legendary Streak"/>
 </div>
 
 <div align="center">
@@ -44,7 +44,7 @@
 ## 📊 QUEST COMPLETION TRACKER
 <div align="center">
   <p><em>🎮 Mapping my coding adventures across the digital landscape</em></p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaKrishnaReddyBurra&theme=rogue&bg_color=0D1117&color=00FF41&line=FF6B35&point=FFD700&area_color=9D4EDD&area=true&hide_border=true&custom_title=⚔️%20Epic%20Quest%20Timeline&cache_bust={{TIMESTAMP}}" alt="Epic Quest Timeline"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaKrishnaReddyBurra&theme=rogue&bg_color=0D1117&color=00FF41&line=FF6B35&point=FFD700&area_color=9D4EDD&area=true&hide_border=true&custom_title=⚔️%20Epic%20Quest%20Timeline&cache_bust=1748490484" alt="Epic Quest Timeline"/>
 </div>
 
 <div align="center">
