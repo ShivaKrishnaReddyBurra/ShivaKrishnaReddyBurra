@@ -1,0 +1,24 @@
+name: Refresh README Stats
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours (midnight and noon UTC)
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README with Timestamp
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i "s/cache_bust={{TIMESTAMP}}/cache_bust=$TIMESTAMP/g" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with fresh stats" || echo "No changes to commit"
+          git push
